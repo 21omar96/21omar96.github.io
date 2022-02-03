@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title></title>
 </head>
 <body>
     <img src="https://c.tenor.com/JGEE8QEpQFkAAAAC/duck.gif" alt="">
