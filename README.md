@@ -1,5 +1,5 @@
 # 21omar96.github.io
-<!DOCTYPE html>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<!DOCTYPE html>a
     <html>
     <head>
       <meta charset='utf-8'>
